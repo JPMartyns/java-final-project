@@ -34,7 +34,7 @@ Este é um projeto de consola Java. Para o executar, siga estes passos:
 2.  Clone o repositório:
     ```bash
     git clone https://github.com/JPMartyns/java-final-project.git
-    cd projeto-final-java
+    cd java-final-project
     ```
     
 3.  Compile todos os ficheiros `.java`:
